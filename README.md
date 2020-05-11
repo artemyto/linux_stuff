@@ -3,4 +3,10 @@ Some stuff for Linux:
 
 Opera-Dark - cute Windows-like xfwm4 theme
 
-.zshrc - zsh config file from Manjaro. To use it you need the following packages installed: zsh zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-history-substring-search
+.zshrc - modified zsh config file from Manjaro. To use it do the following: 
+
+sudo pacman -Syu zsh zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-history-substring-search neofetch
+
+mac/.zshrc - macOS version of the zsh config. To use it do the following: 
+
+brew install zsh zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-history-substring-search neofetch
