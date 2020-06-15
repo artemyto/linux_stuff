@@ -11,3 +11,5 @@ sudo pacman -Syu zsh zsh-autosuggestions zsh-syntax-highlighting zsh-completions
 ```
 brew install zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-history-substring-search neofetch
 ```
+
+* neofetch.conf - neofetch config with addition to show Nvidia driver version. Put it to ~/.config/neofetch/config.conf
